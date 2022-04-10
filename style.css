@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    
+
+}
+
+h1 {
+
+    font-size: 40px;
+    font-family: 'Akaya Telivigala', cursive;
+    font-weight: 300;
+    text-shadow:2px 3px 2px grey;
+
+}
+
+#app {
+    
+    background-color: aliceblue;
+
+}
+#app,#game,#Chatbot{
+    width: 100%;
+    height: 800px;
+}
+
+
+#game{
+  
+    background-color:lightcoral;
+
+}
+#Chatbot{
+   
+    background-color:aquamarine;
+
+}
+
+
+
+
+
+img:hover {
+    
+   transform:scale(0.95);
+    border:2px solid black;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
